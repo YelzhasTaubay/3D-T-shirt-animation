@@ -1,10 +1,8 @@
 Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
 3D Website
 
-Introduction
 Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence!
 
-In this course, you'll learn the following:
 
 ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
@@ -21,5 +19,3 @@ Ensure responsiveness across all devices and improve your site's performance
 Want to learn more? Check out Anderson Mancini's Course
 This video covers only a small part of what's included in Anderson Mancini's Udemy Course. Go check it out 🔥
 
-Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass Become a Software Engineer. Guaranteed.
